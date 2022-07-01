@@ -1,0 +1,89 @@
+<mxfile host="65bd71144e" pages="2">
+    <diagram id="DKVbhjQy9fcUWRo3KCFr" name="before">
+        <mxGraphModel dx="818" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="mEWf3dKx2w_8tLR9cv6K-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="140" width="560" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="JCdjI9oNabw8QRH46eB--3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ワイ&lt;br&gt;(Wai)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeColor=none;verticalAlign=top;spacing=10;fillColor=#CCE5FF;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="160" width="240" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="qIKgZQX12fQalRJe2jEp-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;面接官&lt;br&gt;(Interviewer)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeColor=none;verticalAlign=top;spacing=10;fillColor=#f8cecc;" parent="1" vertex="1">
+                    <mxGeometry x="420" y="160" width="240" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="JCdjI9oNabw8QRH46eB--1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;面接官に関連するデータ&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=none;fillColor=#FF9999;strokeWidth=0.5;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="220" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="qIKgZQX12fQalRJe2jEp-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;面接官に関連するロジック&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=none;fillColor=#FF9999;strokeWidth=0.5;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="280" width="200" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="after" id="Hqw9Tm1iLmpX3VhqAdoK">
+        <mxGraphModel dx="818" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="EuM0geQDd1ZuV-R7SJIv-0"/>
+                <mxCell id="EuM0geQDd1ZuV-R7SJIv-1" parent="EuM0geQDd1ZuV-R7SJIv-0"/>
+                <mxCell id="mrP8w2IiFsPU8JFxMqLb-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="EuM0geQDd1ZuV-R7SJIv-1">
+                    <mxGeometry x="120" y="140" width="560" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="EuM0geQDd1ZuV-R7SJIv-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ワイ&lt;br&gt;(Wai)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeColor=none;verticalAlign=top;spacing=10;fillColor=#CCE5FF;" parent="EuM0geQDd1ZuV-R7SJIv-1" vertex="1">
+                    <mxGeometry x="140" y="160" width="240" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="EuM0geQDd1ZuV-R7SJIv-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;面接官&lt;br&gt;(Interviewer)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeColor=none;verticalAlign=top;spacing=10;fillColor=#f8cecc;" parent="EuM0geQDd1ZuV-R7SJIv-1" vertex="1">
+                    <mxGeometry x="420" y="160" width="240" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="EuM0geQDd1ZuV-R7SJIv-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;面接官に関連するデータ&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=none;fillColor=#FF9999;strokeWidth=0.5;" parent="EuM0geQDd1ZuV-R7SJIv-1" vertex="1">
+                    <mxGeometry x="440" y="220" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="EuM0geQDd1ZuV-R7SJIv-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;面接官に関連するロジック&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=none;fillColor=#FF9999;strokeWidth=0.5;" parent="EuM0geQDd1ZuV-R7SJIv-1" vertex="1">
+                    <mxGeometry x="440" y="280" width="200" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="before_after" id="UkTNreQTgBb4B2EGeeck">
+        <mxGraphModel dx="818" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="B9s8Od9NzSVu-ij_zjMj-0"/>
+                <mxCell id="B9s8Od9NzSVu-ij_zjMj-1" parent="B9s8Od9NzSVu-ij_zjMj-0"/>
+                <mxCell id="B9s8Od9NzSVu-ij_zjMj-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ワイ&lt;br&gt;(Wai)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeColor=none;verticalAlign=top;spacing=10;fillColor=#CCE5FF;" parent="B9s8Od9NzSVu-ij_zjMj-1" vertex="1">
+                    <mxGeometry x="140" y="160" width="240" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="B9s8Od9NzSVu-ij_zjMj-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;面接官&lt;br&gt;(Interviewer)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeColor=none;verticalAlign=top;spacing=10;fillColor=#f8cecc;" parent="B9s8Od9NzSVu-ij_zjMj-1" vertex="1">
+                    <mxGeometry x="400" y="160" width="240" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="B9s8Od9NzSVu-ij_zjMj-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;面接官に関連するデータ&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=none;fillColor=#FF9999;strokeWidth=0.5;" parent="B9s8Od9NzSVu-ij_zjMj-1" vertex="1">
+                    <mxGeometry x="420" y="220" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="B9s8Od9NzSVu-ij_zjMj-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ワイ&lt;br&gt;(Wai)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeColor=none;verticalAlign=top;spacing=10;fillColor=#CCE5FF;" parent="B9s8Od9NzSVu-ij_zjMj-1" vertex="1">
+                    <mxGeometry x="140" y="420" width="240" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="B9s8Od9NzSVu-ij_zjMj-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;面接官&lt;br&gt;(Interviewer)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeColor=none;verticalAlign=top;spacing=10;fillColor=#f8cecc;" parent="B9s8Od9NzSVu-ij_zjMj-1" vertex="1">
+                    <mxGeometry x="400" y="420" width="240" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="B9s8Od9NzSVu-ij_zjMj-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="B9s8Od9NzSVu-ij_zjMj-1">
+                    <mxGeometry x="120" y="140" width="120" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="B9s8Od9NzSVu-ij_zjMj-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;面接官に関連するデータ&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=none;fillColor=#FF9999;strokeWidth=0.5;" parent="B9s8Od9NzSVu-ij_zjMj-1" vertex="1">
+                    <mxGeometry x="420" y="480" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="B9s8Od9NzSVu-ij_zjMj-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;面接官に関連するロジック&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=none;fillColor=#FF9999;strokeWidth=0.5;" parent="B9s8Od9NzSVu-ij_zjMj-1" vertex="1">
+                    <mxGeometry x="420" y="540" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="B9s8Od9NzSVu-ij_zjMj-10" value="" style="shape=flexArrow;endArrow=classic;html=1;width=40;endSize=6.56;endWidth=19;strokeColor=none;fillColor=#FF9999;" edge="1" parent="B9s8Od9NzSVu-ij_zjMj-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="360" as="sourcePoint"/>
+                        <mxPoint x="390" y="400" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="B9s8Od9NzSVu-ij_zjMj-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;面接官に関連するロジック&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=none;fillColor=#FF9999;strokeWidth=0.5;" parent="B9s8Od9NzSVu-ij_zjMj-1" vertex="1">
+                    <mxGeometry x="160" y="280" width="200" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
